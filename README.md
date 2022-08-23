@@ -34,3 +34,7 @@ Data: monthly_regional_results/
 Plot_regional_timeseries_*.py
 
 Data: Regional_water_and_energy_variables/
+
+Plotting_SM_LAI.py
+
+Data: Single-point simulated daily soil moisture and LAI/
