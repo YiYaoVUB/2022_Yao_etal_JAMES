@@ -22,7 +22,7 @@ def set_plot_param():
     mpl.rc('legend', fontsize='large')
     mpl.rc('text', color='dimgrey')
 
-data_surface = Data_from_nc('surfdata_0.9x1.25_hist_78pfts_CMIP6_simyr2000_c210203.nc')   #load the data
+data_surface = Data_from_nc('surfdata_irrigation_method.nc')   #load the data
 data_irrigation_method = data_surface.load_variable('irrigation_method')
 
 
