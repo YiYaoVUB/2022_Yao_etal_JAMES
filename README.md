@@ -3,6 +3,8 @@ Scripts used for plottings of the study: Implementation and evaluation of irriga
 
 Data used in scripts could be found here: https://figshare.com/account/home#/projects/143676
 
+Python version: 3.6
+
 
 Plot_irr_method.py
 
